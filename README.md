@@ -25,11 +25,6 @@ Vue Vben Admin is a free and open source middle and back-end template. Using the
 
 Test account: vben/123456
 
-<p align="center">
-    <img alt="VbenAdmin Logo" width="100%" src="https://anncwb.github.io/anncwb/images/preview1.png">
-    <img alt="VbenAdmin Logo" width="100%" src="https://anncwb.github.io/anncwb/images/preview2.png">
-    <img alt="VbenAdmin Logo" width="100%" src="https://anncwb.github.io/anncwb/images/preview3.png">
-</p>
 
 ### Use Gitpod
 

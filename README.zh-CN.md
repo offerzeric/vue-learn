@@ -28,11 +28,7 @@ Vue Vben Admin 是一个免费开源的中后台模版。使用了最新的`vue3
 
 测试账号: vben/123456
 
-<p align="center">
-    <img alt="VbenAdmin Logo" width="100%" src="https://anncwb.github.io/anncwb/images/preview1.png">
-    <img alt="VbenAdmin Logo" width="100%" src="https://anncwb.github.io/anncwb/images/preview2.png">
-    <img alt="VbenAdmin Logo" width="100%" src="https://anncwb.github.io/anncwb/images/preview3.png">
-</p>
+
 
 ### 使用 Gitpod
 
